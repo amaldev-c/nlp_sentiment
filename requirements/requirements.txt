@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+tensorflow
+pyyaml
+contractions
+bs4
+nltk
+uvicorn
+fastapi
+transformers

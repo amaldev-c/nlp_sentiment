@@ -1,4 +1,6 @@
-<h1>HuggingFace Transformers based NLP Sentiment Analysis trained on IMDB Movie Review dataset.</h1>
+<h1>NLP Sentiment Analyis</h1>
+
+HuggingFace Transformers based Sentiment Analysis model trained on IMDB Movie Review dataset.
 
 HuggingFace Space - https://huggingface.co/spaces/amaldevc/nlp_sentiment
 
